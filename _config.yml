@@ -1,0 +1,28 @@
+name: Terra Sports Consignment
+favicon: null
+layout_spectrum: 0.8833276762161404
+typography_spectrum: 0.31453649513423443
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.20844457112252712
+  lightness: 0.17064239457249641
+  saturation: 0.6792060637380928
+  rhythmicContrast: 0.008852598024532199
+purpose: []
